@@ -1,0 +1,61 @@
+@media only screen and (max-width: 1520px) {
+    .header.style-3 .themesflat-top .content-left {
+        margin-left: 0;
+    }
+
+    .contact-home4 .group-input span:first-child {
+        margin-right: 0px;
+    }
+
+    .contact-home4.style2 .group-input input[type="email"] {
+        margin-left: 0px;
+    }
+
+    .contact-home4.style2 .group-input input[type="text"] {
+        margin-bottom: 20px;
+    }
+}
+@media only screen and (max-width: 991px) {
+    .navigation.posts-navigation .nav-links li i {
+        display: none;
+    }
+
+    .contact-faq {
+        width: 90%;
+    }
+
+    .page-title.default .breadcrumbs {
+        margin-top: 10px;
+      }
+}
+@media only screen and (max-width: 767px) {
+    .mail-subcribe {
+        display: block;
+        position: relative;
+    }
+    .mail-subcribe button {
+        margin: 0;
+    }
+    .contact-faq .group-inner,
+    .contact-faq .group-inner span:first-child {
+        display: block;
+    }
+    .contact-faq .group-inner span:first-child {
+        margin-right: 0px;
+    }
+      
+      .contact-faq .group-inner span:last-child {
+        margin-left: 0px;
+      }
+      .navigation.posts-navigation .nav-links {
+        display: block;
+    }
+    .nav-links .next-post {
+        float: left;
+        width: unset;
+        margin-top: 40px;
+    }
+    .single-post .navigation.posts-navigation .nav-links li a .content {
+        width: 400px;
+    }
+}
