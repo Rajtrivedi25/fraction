@@ -1,0 +1,71 @@
+/* themesflat animation
+-------------------------------------------------------------- */
+.tf-animated-twocolumn .item-animated.first {
+    transform: translateX(-25px);
+}
+
+.tf-animated-twocolumn .item-animated.last {
+    transform: translateX(25px);
+}
+
+.wrap-blog-article.blog-list .item article,
+.wrap-blog-article.blog-gird .item,
+.wrap-services-post .item,
+.tf-posts .item,
+.wrap-doctor-post .item,
+.wrap-portfolios-post .item,
+.tf-animated .item-animated,
+section .item-animated,
+.tf-title-section .before-heading,
+.tf-title-section .heading,
+.tf-title-section .sub-title,
+.tf-animated-column-elementor .elementor-column,
+.elementor-widget-tf-counter .tf-counter,
+.elementor-widget-tf-button .tf-btn {
+    opacity: 0;
+    transform: translateY(25px);
+    -webkit-transition: all 0.8s;
+    -moz-transition: all 0.8s;
+    -ms-transition: all 0.8s;
+    -o-transition: all 0.8s;
+    transition: all 0.8s;
+}
+
+.wrap-blog-article.blog-list .item article.tfanimated,
+.wrap-blog-article.blog-gird .item.tfanimated,
+.wrap-services-post .item.tfanimated,
+.tf-posts .item.tfanimated,
+.wrap-doctor-post .item.tfanimated,
+.wrap-portfolios-post .item.tfanimated,
+.tf-animated .item-animated.tfanimated,
+section .item-animated.tfanimated,
+.tf-title-section .before-heading.tfanimated,
+.tf-title-section .heading.tfanimated,
+.tf-title-section .sub-title.tfanimated,
+.tf-animated-column-elementor .elementor-column.tfanimated,
+.tf-animated-twocolumn .item-animated.tfanimated.first,
+.elementor-widget-tf-button .tf-btn.tfanimated,
+.elementor-widget-tf-counter .tf-counter,
+.tf-animated-twocolumn .item-animated.tfanimated.last {
+    opacity: 1 !important;
+    transform: translate(0, 0) !important;
+}
+
+/* hover top */
+.tf-animated-hover-top {
+    transition: all 0.5s;
+    transform: translateY(0);
+}
+
+.tf-animated-hover-top:hover {
+    transform: translateY(-5px);
+}
+
+.tf-animated-hover-top-s2 {
+    transition: all 0.5s;
+    transform: translateY(0);
+}
+
+.tf-animated-hover-top-s2:hover {
+    transform: translateY(-5px);
+}

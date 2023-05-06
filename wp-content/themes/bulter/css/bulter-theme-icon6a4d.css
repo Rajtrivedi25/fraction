@@ -1,0 +1,115 @@
+@font-face {
+	font-family: 'bulter-theme';
+	src:  url('https://themesflat.co/wp-content/themes/bulter/fonts/bulter-theme.eot?tig1lf');
+	src:  url('https://themesflat.co/wp-content/themes/bulter/fonts/bulter-theme.eot?tig1lf#iefix') format('embedded-opentype'),
+	  url('https://themesflat.co/wp-content/themes/bulter/fonts/bulter-theme.ttf?tig1lf') format('truetype'),
+	  url('https://themesflat.co/wp-content/themes/bulter/fonts/bulter-theme.woff?tig1lf') format('woff'),
+	  url('https://themesflat.co/wp-content/themes/bulter/fonts/bulter-theme.svg?tig1lf#bulter-theme') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: block;
+  }
+  
+  [class^="bulter-theme-"], [class*=" bulter-theme-"] {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'bulter-theme' !important;
+	speak: never;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+  
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+  }
+  
+  .bulter-theme-expand:before {
+	content: "\e900";
+  }
+  .bulter-theme-icon-28:before {
+	content: "\e932";
+  }
+  .bulter-theme-icon-281:before {
+	content: "\e933";
+  }
+  .bulter-theme-dot:before {
+	content: "\e934";
+  }
+  .bulter-theme-icon-1:before {
+	content: "\e935";
+  }
+  .bulter-theme-icon-2:before {
+	content: "\e936";
+  }
+  .bulter-theme-icon-3:before {
+	content: "\e937";
+  }
+  .bulter-theme-icon-4:before {
+	content: "\e938";
+  }
+  .bulter-theme-icon-5:before {
+	content: "\e939";
+  }
+  .bulter-theme-icon-6:before {
+	content: "\e93a";
+  }
+  .bulter-theme-icon-7:before {
+	content: "\e93b";
+  }
+  .bulter-theme-icon-8:before {
+	content: "\e93c";
+  }
+  .bulter-theme-icon-9:before {
+	content: "\e93d";
+  }
+  .bulter-theme-icon-11:before {
+	content: "\e93e";
+  }
+  .bulter-theme-icon-12:before {
+	content: "\e93f";
+  }
+  .bulter-theme-icon-13:before {
+	content: "\e940";
+  }
+  .bulter-theme-icon-14:before {
+	content: "\e941";
+  }
+  .bulter-theme-icon-15:before {
+	content: "\e942";
+  }
+  .bulter-theme-icon-16:before {
+	content: "\e943";
+  }
+  .bulter-theme-icon-17:before {
+	content: "\e944";
+  }
+  .bulter-theme-icon-18:before {
+	content: "\e945";
+  }
+  .bulter-theme-icon-19:before {
+	content: "\e946";
+  }
+  .bulter-theme-icon-20:before {
+	content: "\e947";
+  }
+  .bulter-theme-icon-21:before {
+	content: "\e948";
+  }
+  .bulter-theme-icon-22:before {
+	content: "\e949";
+  }
+  .bulter-theme-icon-23:before {
+	content: "\e94a";
+  }
+  .bulter-theme-icon-24:before {
+	content: "\e94b";
+  }
+  .bulter-theme-icon-25:before {
+	content: "\e94c";
+  }
+  .bulter-theme-icon-27:before {
+	content: "\e94d";
+  }
+  
